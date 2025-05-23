@@ -1,6 +1,6 @@
-# YouTube Trending Analytics (Mexico)
+# YouTube Trending Analytics (US)
 
-This is an exploratory data analysis project based on trending videos in Mexico using the public dataset [YouTube Trending Videos - Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new).
+This is an exploratory data analysis project based on trending videos in US using the public dataset [YouTube Trending Videos - Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new).
 
 ## 🔍 Objectives
 
@@ -13,7 +13,6 @@ This is an exploratory data analysis project based on trending videos in Mexico 
 
 youtube-trending-analytics/
 │
-├── data/ # Raw dataset files (CSV and JSON)
 ├── notebooks/ # Jupyter Notebooks with the analysis
 ├── visuals/ # Exported visualizations
 ├── README.md # Project documentation
@@ -45,7 +44,7 @@ jupyter notebook notebooks/youtube_analysis.ipynb
 ## 📊 Sample Insights
 
 📌 Most frequent category: Entertainment 
-📌 Most featured channel: YouTube Spotlight
+📌 Most featured channel: ChildishGambinoVEVO
 📌 Most viewed video: [Video Title] (to be discovered in the analysis)
 
 
